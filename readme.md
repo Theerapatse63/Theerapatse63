@@ -26,11 +26,11 @@
   </a> 
     
 <a href="#">
-    <img src="svg/dev/languages/javascript.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/languages/javascript.svg" alt="javascript" style="vertical-align:top; margin:6px 4px">
   </a> 
 
 <a href="#">
-    <img src="svg/dev/languages/c#.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/languages/c#.svg" alt="c#" style="vertical-align:top; margin:6px 4px">
   </a> 
 </P>
 
